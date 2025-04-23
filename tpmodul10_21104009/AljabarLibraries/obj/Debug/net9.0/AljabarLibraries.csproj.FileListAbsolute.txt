@@ -1,0 +1,12 @@
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/bin/Debug/net9.0/AljabarLibraries.deps.json
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/bin/Debug/net9.0/AljabarLibraries.dll
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/bin/Debug/net9.0/AljabarLibraries.pdb
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/AljabarLibraries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/AljabarLibraries.AssemblyInfoInputs.cache
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/AljabarLibraries.AssemblyInfo.cs
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/AljabarLibraries.csproj.CoreCompileInputs.cache
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/AljabarLibraries.sourcelink.json
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/AljabarLibraries.dll
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/refint/AljabarLibraries.dll
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/AljabarLibraries.pdb
+/Users/doanta/Documents/Dev/KPL/KPL_DOANTA-ALOYCIUS-GINTING_21104009_SE-06-01/10_Library_Construction/tpmodul10_21104009/AljabarLibraries/obj/Debug/net9.0/ref/AljabarLibraries.dll
